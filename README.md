@@ -1,4 +1,13 @@
-### Hi there 👋
+# About me
+
+Senior test automation engineer
+
+# Skills:
+- WebdriverIO
+- Postman / Bruno
+- JS / TS
+- Agile test management
+- CI / CD
 
 <!--
 **michaelaugas/michaelaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@ Senior test automation engineer
 - WebdriverIO
 - Postman / Bruno
 - JS / TS
-- Agile test management
+- Agile test/QA management
 - CI / CD
 
 <!--
